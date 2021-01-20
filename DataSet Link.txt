@@ -1,0 +1,5 @@
+https://nihcc.app.box.com/v/ChestXray-NIHCC
+paper: https://arxiv.org/abs/1705.02315
+
+image segmentation using u-net: https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+https://decathlon-10.grand-challenge.org/evaluation/challenge/leaderboard/
